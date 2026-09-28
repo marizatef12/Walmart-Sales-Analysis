@@ -4,5 +4,7 @@ A sales analysis project using Power BI to explore sales performance and busines
 
 # Tools
 Power BI
+
 Python
+
 Machine Learning
